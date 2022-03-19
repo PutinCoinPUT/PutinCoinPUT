@@ -4,6 +4,8 @@
 - 💞️ We're looking to collaborate on projects dedicated to Russia.
 - 📫 How to reach us: admin@putincoin.org
 
+This is the main code repository: ✨ https://github.com/PutinCoinPUT/PutinCoin ✨
+
 <!---
 PutinCoinPUT is our ✨ development ✨ repository for any code, scripts and apps about the cryptocurrency Putincoin (PUT).
 --->
